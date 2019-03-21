@@ -1,0 +1,12 @@
+C:\Users\glenn\source\repos\RpgGame\RpgGame\bin\Debug\RpgGame.exe.config
+C:\Users\glenn\source\repos\RpgGame\RpgGame\bin\Debug\RpgGame.exe
+C:\Users\glenn\source\repos\RpgGame\RpgGame\bin\Debug\RpgGame.pdb
+C:\Users\glenn\source\repos\RpgGame\RpgGame\bin\Debug\Engine.dll
+C:\Users\glenn\source\repos\RpgGame\RpgGame\bin\Debug\Engine.pdb
+C:\Users\glenn\source\repos\RpgGame\RpgGame\obj\Debug\RpgGame.csprojAssemblyReference.cache
+C:\Users\glenn\source\repos\RpgGame\RpgGame\obj\Debug\RpgGame.Properties.Resources.resources
+C:\Users\glenn\source\repos\RpgGame\RpgGame\obj\Debug\RpgGame.csproj.GenerateResource.cache
+C:\Users\glenn\source\repos\RpgGame\RpgGame\obj\Debug\RpgGame.csproj.CoreCompileInputs.cache
+C:\Users\glenn\source\repos\RpgGame\RpgGame\obj\Debug\RpgGame.csproj.CopyComplete
+C:\Users\glenn\source\repos\RpgGame\RpgGame\obj\Debug\RpgGame.exe
+C:\Users\glenn\source\repos\RpgGame\RpgGame\obj\Debug\RpgGame.pdb
